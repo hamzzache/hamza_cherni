@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hamza</title>
+	<link rel="icon" href="res/cat.JPG">
+</head>
+
+<body>
+<center>bonjour !</center>
+<hr>
+<ol>Ce site va exposer une infection bénigne par un champigon qu'on contracte généralement en été.
+	<br>cette infection s'appelle Ptyriasis versicolor.<br>
+	<br><h2>les facteurs farorisants sont :</h2>
+	<li>l'exposition solaire, chaleur, humidité, sudation</li>
+	<li>la peau grasse</li>
+	<li>grossesse</li>
+	<li>hypercortisisme</li>
+	<li>immunodépression</li>
+</ol>
+<hr>
+<ol><h2>les signes clinique de cette parasitose sont :</h2>
+	<li>lésions hyper ou hypo pigmatées sur les zones exposés du corps</li>
+	<li>un prurit</li>
+	<li>desquamation de la peau</li>
+</ul>
+<p>voila des images qui objectivent les lésions :</p>
+<img title="ce sont des lésions au niveau du tronc" src="res/im1.JPG" alt="lésion du visage" style="width:300px;height:300px;"><br>
+<img src="res/im2.JPG" alt="lesion au nivequ du thorax" title="ce sont des lésion au niveau du visage" style="width:300px; height="300";">
+<br>
+<hr>
+<p>le diagnostic de cette infection repose sur un examen direct au miscroscope après grattage de lésion cutannées.</p>
+<p>cela va mettre en évidence des leuvures de Malassezia furfur en grappe de raisin comme le montre l'image qui suit :</p>
+<img src="res/grappe.JPG" alt="Malassezia furfur" title="Malassezia furfur" style="width:300px; height:300px;">
+<h2>le traitement de cette maladie est simple, comme suit :</h2>
+<ol>
+	<li>eviter l exposition solaire</li>
+	<li>Kétoderm en deux applications a une semaine d'intervalle</li>
+</ol>
+<br>
+<hr>
+<p>les reférences:</p>
+<a href="http://campus.cerimes.fr/parasitologie/enseignement/malassezia/site/html/1.html">http://campus.cerimes.fr</a><br>
+<a href="#top">haut de la page</a>
+</body>
+</html>
